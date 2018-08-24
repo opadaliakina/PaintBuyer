@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>productId</key>
+        <string>com.test.paintings.sunflowers</string>
+        <key>url</key>
+        <string>https://images-na.ssl-images-amazon.com/images/I/71ngRBPsKpL._SX466_.jpg</string>
+        <key>height</key>
+        <integer>584</integer>
+        <key>width</key>
+        <integer>466</integer>
+        <key>Name</key>
+        <string>Sunflowers</string>
+    </dict>
+	<dict>
+		<key>productId</key>
+		<string>com.test.paintings.night_terrace</string>
+		<key>url</key>
+		<string>https://muzei-mira.com/templates/museum/images/paint/nochnaya-terrasa-kafe-van-gog+.jpg</string>
+		<key>height</key>
+		<integer>822</integer>
+		<key>width</key>
+		<integer>1040</integer>
+		<key>Name</key>
+		<string>Night Terrace</string>
+	</dict>
+    <dict>
+        <key>productId</key>
+        <string>com.rubyroidlabs.inapp.test.neighbor</string>
+        <key>url</key>
+        <string>https://www.prohandmade.ru/wp-content/uploads/2017/08/popculture8.jpg</string>
+        <key>height</key>
+        <integer>700</integer>
+        <key>width</key>
+        <integer>700</integer>
+        <key>Name</key>
+        <string>My Neighbour is Van-Gog</string>
+    </dict>
+	<dict>
+		<key>productId</key>
+		<string>com.test.paintings.star_night</string>
+		<key>url</key>
+		<string>https://afisha.yuga.ru/media/c5/00/noch(18)__8dr2nc3.jpg</string>
+		<key>height</key>
+		<integer>1188</integer>
+		<key>width</key>
+		<integer>1900</integer>
+		<key>Name</key>
+		<string>Star Night</string>
+	</dict>
+</array>
+</plist>
